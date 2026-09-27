@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . .. /best
+ls -la . .. /boot
